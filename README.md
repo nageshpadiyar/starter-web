@@ -5,7 +5,8 @@ and Github together
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is example to show different parts of the GIT Repository
+and various commands using a web project
 
 # Starter Web Project
 
