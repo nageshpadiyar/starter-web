@@ -8,13 +8,13 @@ and Github together
 This is example to show different parts of the GIT Repository
 and various commands using a web project
 
-# Starter Web Project
+As stated above, the main purpose is to provide simple examples
+for GIT Training demos
 
-## Introduction
-
-## Purpose
 
 ## Deployment
+
+This is a simple web project, deployment can be on any web server
 
 ## How To Contribute
 
